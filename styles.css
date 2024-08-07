@@ -1,0 +1,21 @@
+body{
+    background-color: #996e99;
+}
+.good-sphere{
+    border-radius: 50%; 
+    height: 100px; 
+    width: 200px; 
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.circle1 { background-color: #f8b400; }
+.circle2 { background-color: #e9443f; }
+.circle3 { background-color: #12a4d9; }
+.circle4 { background-color: #1d7a8c; }
+.circle5 { background-color: #9145b6; }
+.circle6 { background-color: #f58220; }
+.circle7 { background-color: #67b045; }
+.circle8 { background-color: #d83a56; }
+.circle9 { background-color: #1e1e1e; }
+.circle10 { background-color: #e3b505; }
